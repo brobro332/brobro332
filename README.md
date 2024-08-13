@@ -1,15 +1,3 @@
-### <div align="center"> 📊 STATS </div> 
-
-<div align="center">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brobro332)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
-<br/>
-
 ### <div align="center"> 🍔 STACKS </div> 
 
 <div align="center">
