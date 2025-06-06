@@ -16,7 +16,6 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![JSP](https://img.shields.io/badge/JSP-%23ED8B00.svg?style=for-the-badge&logo=JSP&logoColor=white)
-  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
@@ -33,11 +32,10 @@
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
   ![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
-  ![ᴊɪɴ-ʜʏᴇᴏɴɢ ᴋɪᴍ's GitHub stats](https://github-readme-stats.vercel.app/api?username=brobro332&show_icons=true&theme=dark&hide=stars,contribs&line_height=31)
+  ![ᴊɪɴ-ʜʏᴇᴏɴɢ ᴋɪᴍ's GitHub stats](https://github-readme-stats.vercel.app/api?username=brobro332&show_icons=true&theme=tokyonight)
   ![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=brobro332)
 </div> 
 
