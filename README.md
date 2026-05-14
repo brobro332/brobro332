@@ -27,17 +27,7 @@
   ![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
-  ![Studying](https://img.shields.io/badge/Studying-📖-2E8B57?style=for-the-badge&logo=book&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Elasticsearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elastic&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
   
-  ![김진형's GitHub stats](https://github-readme-stats.vercel.app/api?username=brobro332&show_icons=true&theme=tokyonight&hide=stars)
-  ![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=brobro332)
-
 </div> 
 
 
