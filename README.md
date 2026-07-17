@@ -38,12 +38,16 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
+<br/>
+
 ## 💼 Work Experience
 <img src="https://img.shields.io/badge/✦ ㈜애버커스-SM 개발자 | 2025.11 ~ -000000?style=for-the-badge&labelColor=0A0A0A&color=00C9A7" height="45"/>
+
 - 구 서비스의 안정적인 이관 및 운영
 - 고객 문의 응대부터 코어 수정 개발까지, 문제 해결 및 시스템 고도화
 
 <img src="https://img.shields.io/badge/✦ 네이버시스템㈜-웹 개발자 | 2024.02 ~ 2025.03 -000000?style=for-the-badge&labelColor=0A0A0A&color=00C9A7" height="45"/>
+
 - 전자정부프레임워크 기반 공공 기록물 관리 솔루션 구축 및 개발
 - 요구사항에 맞춘 신규 기능 개발
 - 지속적인 버그 픽스 및 유지보수를 통한 서비스 품질 향상
